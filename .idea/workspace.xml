@@ -1,11 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dde3e5f0-8102-46bd-9836-ed3ab1d67933" name="Default Changelist" comment="" />
+    <list default="true" id="dde3e5f0-8102-46bd-9836-ed3ab1d67933" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/corona_webmap/webmap/load_data_to_db/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Covid-19-Analysis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Covid-19-Analysis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Load database-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/load_database-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/World_map_confirmed.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corona_webmap/corona_webmap/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/corona_webmap/config/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corona_webmap/corona_webmap/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/corona_webmap/config/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corona_webmap/corona_webmap/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/corona_webmap/config/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corona_webmap/corona_webmap/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/corona_webmap/config/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corona_webmap/corona_webmap/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/corona_webmap/config/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corona_webmap/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/corona_webmap/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corona_webmap/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corona_webmap/webmap/load_borders.py" beforeDir="false" afterPath="$PROJECT_DIR$/corona_webmap/webmap/load_data_to_db/load_borders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corona_webmap/webmap/load_covid_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/corona_webmap/webmap/load_data_to_db/load_covid_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corona_webmap/webmap/load_supplemental_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/corona_webmap/webmap/load_data_to_db/load_supplemental_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/load_database.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/world_map/World_Map.cpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/world_map/World_Map.dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/world_map/World_Map.prj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/world_map/World_Map.sbn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/world_map/World_Map.sbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/world_map/World_Map.shp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/world_map/World_Map.shx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,9 +51,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/corona_webmap" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="dde3e5f0-8102-46bd-9836-ed3ab1d67933" name="Default Changelist" comment="" />
@@ -34,16 +75,36 @@
       <workItem from="1599999970535" duration="13000" />
       <workItem from="1600000111276" duration="209000" />
       <workItem from="1600006960300" duration="209000" />
+      <workItem from="1602505778704" duration="1060000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="665" y="282" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599987857164">
       <screen x="0" y="0" width="1920" height="960" />
     </state>
     <state x="665" y="282" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.960@0.0.1920.960" timestamp="1599987857164" />
+    <state x="183" y="360" key="FileChooserDialogImpl" timestamp="1602506050844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="183" y="360" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602506050844" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1602506598570">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602506598570" />
   </component>
 </project>
